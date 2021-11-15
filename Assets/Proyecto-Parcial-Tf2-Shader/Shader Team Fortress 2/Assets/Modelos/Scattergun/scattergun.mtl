@@ -1,0 +1,12 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl models/weapons/w_scattergun/w_scattergun.bmp
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.529295 0.733755 0.434122
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd w_scattergun.png

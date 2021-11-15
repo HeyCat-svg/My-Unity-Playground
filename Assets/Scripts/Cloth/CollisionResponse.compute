@@ -1,0 +1,14 @@
+#pragma kernel CollisionResponse
+
+
+RWStructuredBuffer<float4> _Position;
+
+uint _VerCountPerCol;
+uint _VerCountPerRow;
+float _DeltaT;
+
+
+[numthreads(16, 16, 1)]
+void CollisionResponse(uint3 id : SV_DispatchThreadID) {
+
+}
